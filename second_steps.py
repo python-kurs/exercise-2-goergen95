@@ -10,7 +10,7 @@ sat_database = {"METEOSAT" : 3000,
 
 # 1) Add the "GOES" and "worldview" satellites with their 2000/0.31m resolution to the dictionary [2P]
 sat_database['GOES'] = 2000
-sat_database['worldview'] =0.31
+sat_database['WORLDVIEW'] =0.31
 
 # 2) print out all satellite names contained in the dictionary [2P]
 sep = ", "
